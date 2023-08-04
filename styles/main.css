@@ -1,7 +1,3 @@
-body {
-    background-color: rgb(189, 25, 121);
-}
-
 
 #title {
     font-family: 'Metallic Inverted', sans-serif;
@@ -116,3 +112,11 @@ footer {
     background-color: rgb(255, 187, 0);
     color: black;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+html {
+  background-image: url('https://previews.123rf.com/images/atlantisfoto/atlantisfoto1405/atlantisfoto140500017/28029235-black-and-white-diamond-steel-plate-background.jpg');
+  background-size: 155%;
+}
+

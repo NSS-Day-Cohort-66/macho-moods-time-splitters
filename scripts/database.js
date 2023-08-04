@@ -90,3 +90,8 @@ const database = [
         ]
     }
 ];
+
+
+export const getMoods = () => {
+    return database
+}
